@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    /* background-image: url(https://www.kasandbox.org/programming-images/landscapes/clouds-from-plane.png); */
+    background-image: url(concert.jpg);
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+}
+
+
+
+.details {
+    background-color: rgb(110,155,140);
+    color: white;
+}  
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    color: red;
+    background-color: grey;
+}
